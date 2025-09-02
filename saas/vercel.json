@@ -1,0 +1,5 @@
+{
+  "buildCommand": "next build --turbopack --no-lint",
+  "ignoreCommand": "exit 0",
+  "framework": "nextjs"
+}
